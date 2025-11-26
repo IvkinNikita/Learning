@@ -1,0 +1,1 @@
+Deploying resources in clouds using the IaC approach
