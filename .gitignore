@@ -1,2 +1,7 @@
 # Terraform
 *.tfvars
+*.tfstate
+*.tfstate.backup
+.terraform/
+sa-key.json
+Terraform/infra_stage/.terraform.lock.hcl
