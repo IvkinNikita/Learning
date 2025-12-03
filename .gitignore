@@ -6,3 +6,5 @@
 sa-key.json
 Terraform/infra_stage/.terraform.lock.hcl
 Terraform/YandexCloud(practicum)/01_base_constructions/.terraform.lock.hcl
+Terraform/YandexCloud(practicum)/02_provider_random/.terraform.lock.hcl
+Terraform/YandexCloud(practicum)/02_provider_random/.terraform.tfstate.lock.info
