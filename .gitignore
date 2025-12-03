@@ -5,3 +5,4 @@
 .terraform/
 sa-key.json
 Terraform/infra_stage/.terraform.lock.hcl
+Terraform/YandexCloud(practicum)/01_base_constructions/.terraform.lock.hcl
