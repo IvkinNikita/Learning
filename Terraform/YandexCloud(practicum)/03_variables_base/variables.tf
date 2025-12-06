@@ -1,8 +1,3 @@
-variable "folder_id" {
-    description = "Yandex.Cloud Folder ID"
-    type        = string
-}
-
 variable "name_prefix" {
   description = "(Optional) - Name prefix for project."
   type        = string
