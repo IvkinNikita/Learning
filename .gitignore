@@ -9,3 +9,4 @@ Terraform/YandexCloud(practicum)/01_base_constructions/.terraform.lock.hcl
 Terraform/YandexCloud(practicum)/02_provider_random/.terraform.lock.hcl
 Terraform/YandexCloud(practicum)/02_provider_random/.terraform.tfstate.lock.info
 Terraform/YandexCloud(practicum)/03_variables_base/.terraform.lock.hcl
+Terraform/YandexCloud(practicum)/04_local_and_output_values/.terraform.lock.hcl
