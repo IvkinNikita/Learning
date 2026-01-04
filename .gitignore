@@ -14,3 +14,4 @@ Terraform/YandexCloud(practicum)/05_functions/.terraform.lock.hcl
 Terraform/YandexCloud(practicum)/05_functions/cloud-init.yaml.tftpl
 Terraform/YandexCloud(practicum)/06_management_structures/cloud-init.yaml.tftpl
 Terraform/YandexCloud(practicum)/06_management_structures/.terraform.lock.hcl
+Terraform/YandexCloud(practicum)/07_state_file/.terraform.lock.hcl
