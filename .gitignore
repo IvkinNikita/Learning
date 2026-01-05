@@ -18,3 +18,5 @@ Terraform/YandexCloud(practicum)/07_state_file/.terraform.lock.hcl
 Terraform/YandexCloud(practicum)/08_state_remote&locking/.terraform.lock.hcl
 Terraform/YandexCloud(practicum)/08_state_remote&locking_check/.env
 Terraform/YandexCloud(practicum)/08_state_remote&locking_check/.terraform.lock.hcl
+Terraform/YandexCloud(practicum)/09_modules/cloud-init.yaml.tftpl
+Terraform/YandexCloud(practicum)/09_modules/.terraform.lock.hcl
