@@ -20,3 +20,8 @@ Terraform/YandexCloud(practicum)/08_state_remote&locking_check/.env
 Terraform/YandexCloud(practicum)/08_state_remote&locking_check/.terraform.lock.hcl
 Terraform/YandexCloud(practicum)/09_modules/cloud-init.yaml.tftpl
 Terraform/YandexCloud(practicum)/09_modules/.terraform.lock.hcl
+Terraform/YandexCloud(practicum)/10_provisioning/cloud-init.yaml.tftpl
+Terraform/YandexCloud(practicum)/10_provisioning/.terraform.lock.hcl
+Terraform/YandexCloud(practicum)/10_provisioning/serial_output_project-dev-linux-vm-a.txt
+Terraform/YandexCloud(practicum)/10_provisioning/serial_output_project-dev-linux-vm-d.txt
+Terraform/YandexCloud(practicum)/10_provisioning/serial_output_project-dev-linux-vm-b.txt
